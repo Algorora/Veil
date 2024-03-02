@@ -19,34 +19,34 @@ Veil is a privacy-focused protocol designed to provide anonymous and secure comm
 ```bash
 git clone https://github.com/yourusername/veil.git
 ```
-#Build the Project
+###Build the Project
 
 ```bash
 cd veil
 make
 ```
 
-#Run a Node
+###Run a Node
 
 ```bash
 ./veil-node
 ```
 
-#Contributing
+###Contributing
 
-#We welcome contributions to enhance the Veil protocol. To contribute:
+###We welcome contributions to enhance the Veil protocol. To contribute:
 
     Fork the repository.
     Create a feature branch.
     Make your changes.
     Open a pull request.
 
-#Please review our Contribution Guidelines for more details.
+###Please review our Contribution Guidelines for more details.
 
 
-#Security is our top priority. If you discover any vulnerabilities, please report them by emailing security@veilprotocol.com. We appreciate your responsible disclosure.
+###Security is our top priority. If you discover any vulnerabilities, please report them by emailing security@veilprotocol.com. We appreciate your responsible disclosure.
 License
 
-#Veil is open-source and released under the MIT License.
-#Contact
+###Veil is open-source and released under the MIT License.
+##Contact
 For any inquiries or support, contact us at info@veilprotocol.com.
